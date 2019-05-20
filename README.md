@@ -1,0 +1,2 @@
+# spksumi
+tugas SPK
